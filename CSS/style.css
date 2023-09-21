@@ -1,0 +1,65 @@
+.image {
+  width: 600px;
+  image-rendering: auto;
+}
+
+.crisp-edges {
+  image-rendering: crisp-edges;
+}
+
+.pixelated {
+  image-rendering: pixelated;
+}
+
+.-webkit-optimize-contrast {
+  image-rendering: -webkit-optimize-contrast;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+label {
+  margin-right: 10px;
+  padding: 20px 0;
+  display: inline-block;
+}
+
+input + label {
+  cursor: pointer;
+}
+
+body {
+  padding: 10px 10px;
+}
+View Compiled
+
+
+Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mapouter
+{
+  position:relative;text-align:right;width:600px;height:400px;
+}
+.gmap_canvas 
+{
+  overflow:hidden;background:none!important;width:600px;height:400px;
+}
+.gmap_iframe 
+{
+  width:600px!important;height:400px!important;
+}
